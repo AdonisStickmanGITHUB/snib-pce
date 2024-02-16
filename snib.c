@@ -1,8 +1,12 @@
 
+#include "title_card.h"
+
 #include <conio.h>
 #include <peekpoke.h>
 #include "listofcharacters.c"
 //#link "listofcharacters.h"
+
+#include "assets.h"
 
 #define DIR_NONE    0
 #define DIR_LEFT    PAD_LEFT
